@@ -1,0 +1,4 @@
+
+categorias = [
+    'ARTE','MATEMATICA','CULTURAR POP','LITERATURA','BIOLOGIA','IDIOMAS'
+]
